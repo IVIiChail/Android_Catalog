@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">catalog</string>
+    <string name="contacts_text">Контакти</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Головна</string>
+    <string name="logo_of_app_1">Courses</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="course_level">Рівень:</string>
+    <string name="course_start_date">Старт навчання:</string>
+    <string name="course_desc">За программу вы изучите построение графических приложений под ПК, разработку веб сайтов на основе Java Spring Boot, изучите построение полноценных Андроид приложений и отлично изучите сам язык Джава!</string>
+</resources>
